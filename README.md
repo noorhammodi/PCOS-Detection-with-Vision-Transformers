@@ -14,8 +14,7 @@ Polycystic Ovary Syndrome (PCOS) affects 8–13% of women of reproductive age, y
 By moving beyond traditional CNN architectures, this model utilizes the global context capabilities of Transformers to achieve superior diagnostic reliability, particularly for underserved communities.
 
 ### 🔗 Resources
-* [**View Full Project Presentation (PDF)**](INF889G-Presentation.pptx.pdf)
-
+* [**View Full Project Presentation (PDF)**](./pdf/INF889G-Presentation.pptx.pdf)
 ---
 
 ## 🧠 Model Architecture
